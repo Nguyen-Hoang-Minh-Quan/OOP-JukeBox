@@ -1,0 +1,72 @@
+{
+  "01": {
+      "name": "Die With A Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "youtube_url": "https://youtu.be/RVDCeVG90Rg?si=RrEjUIaQ6tOLjit_",
+      "rating": 5,
+      "image_url": "https://avatar-ex-swe.nixcdn.com/song/2024/08/16/f/b/9/5/1723784458729_640.jpg"
+  },
+  "02": {
+      "name": "WHITE NIGHT",
+      "artist": "Jake Miller",
+      "youtube_url": "https://youtu.be/TursZNv5dA8?si=Yuschdzws8eoflNE",
+      "rating": 4,
+      "image_url": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/05/WHITE_NIGHT.png/revision/latest?cb=20240127045007"
+  },
+  "03": {
+      "name": "Somebody That I Used To Know",
+      "artist": "Gotye, feat. Kimbra",
+      "youtube_url": "https://youtu.be/8UVNT4wvIGY?si=pAuLaRVsvpT0RCng",
+      "rating": 3,
+      "image_url": "https://i1.sndcdn.com/artworks-000029415641-0cbfdz-t500x500.jpg"
+  },
+  "04": {
+      "name": "Never Gonna Give You Up",
+      "artist": "Rick Astley",
+      "youtube_url": "https://youtu.be/dQw4w9WgXcQ?si=-ydllfsj83t7t0UL",
+      "rating": 5,
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273f01545a750367070b9ed7f2e"
+  },
+  "05": {
+      "name": "GANGNAM STYLE",
+      "artist": "PSY",
+      "youtube_url": "https://youtu.be/9bZkp7q19f0?si=4hoU5AKCdS2dQYbf",
+      "rating": 4,
+      "image_url": "https://upload.wikimedia.org/wikipedia/vi/f/f9/GangnamStyle.png"
+  },
+  "06": {
+      "name": "The 7th Element",
+      "artist": "Vitas",
+      "youtube_url": "https://youtu.be/989-7xsRLR4?si=qoY66VIzMB4J_UTx",
+      "rating": 3,
+      "image_url": "https://i.ytimg.com/vi/4qXsLysga9I/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB8WD4byl2Cr90ivEucC9y2yoHVlA"
+  },
+  "07": {
+      "name": "Uptown Funk",
+      "artist": "Mark Ronson",
+      "youtube_url": "https://youtu.be/7Ya2U8XN_Zw?si=BruKnqCklUN4kAg4",
+      "rating": 5,
+      "image_url": "https://m.media-amazon.com/images/M/MV5BYTU0YTRjMjQtMzUzNC00ZDNmLThiNjUtMWU2OWNkYjA4OWU1XkEyXkFqcGc@._V1_.jpg"
+  },
+  "08": {
+      "name": "Crab Rave",
+      "artist": "Noisestorm",
+      "youtube_url": "https://youtu.be/LDU_Txk06tM?si=tpfFyUMPa9meIP6P",
+      "rating": 4,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/6/65/Crab_Rave_Noisestorm_Cover.jpeg"
+  },
+  "09": {
+      "name": "Cheap Thrills",
+      "artist": "Sia",
+      "youtube_url": "https://youtu.be/nYh-n7EOtMA?si=O6a-7_B9SCYvKWG4",
+      "rating": 5,
+      "image_url": "https://upload.wikimedia.org/wikipedia/vi/f/fc/Sia_Cheap_Thrills.png"
+  },
+  "10": {
+      "name": "The Fox",
+      "artist": "Ylvis",
+      "youtube_url": "https://youtu.be/jofNR_WkoCE?si=YKiW6_B8VdzPnDVv",
+      "rating": 3,
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/32/f5/b4/32f5b44a-6713-dfd4-e561-e40679bff318/825646409051.jpg/1200x1200bb.jpg"
+  }
+}
